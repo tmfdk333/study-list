@@ -60,6 +60,11 @@
 - **Http**
     - [ ] [Http 완벽 가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=8509980)
 
+### 10) Etc
+- **Git**
+- **IDE**
+    - [x] ~~[IntelliJ를 시작하시는 분들을 위한  IntelliJ 가이드](https://www.inflearn.com/course/intellij-guide/)~~ → :octocat: [intellij-guide](https://github.com/tmfdk333/intellij-guide)
+
 ## 2. Course
 
 ### 1) ML/DL
