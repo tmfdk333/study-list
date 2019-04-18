@@ -94,6 +94,8 @@
     - [ ] 데이터 통신과 네트워킹
     - [ ] 네트워크 보안 에센셜
     - [ ] 패킷 트레이서 완전정복
+- **Design Pattern**
+    - [ ] Head First Design Pattern
 
 ### 11. Etc
 - **Git**
@@ -125,6 +127,8 @@
     - [ ] Coursera - Machine Learning
 - **Deep Learning**
     - [ ] CS224d
+- **Data Engineering**
+    - [ ] FastCampus - APACHE SPARK을 활용한 데이터 파이프라인 만들기 CAM
 
 ### 8. Web
 - **Full Stack**
