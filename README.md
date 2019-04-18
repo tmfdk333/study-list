@@ -68,6 +68,7 @@
 - **Network**
     - [ ] [후니의 쉽게 쓴 시스코 네트워킹](https://book.naver.com/bookdb/book_detail.nhn?bid=6362529)
     - [ ] [성공과 실패를 결정하는 1%의 네트워크 원리](https://book.naver.com/bookdb/book_detail.nhn?bid=13920339)
+- **Design Pattern**
 
 ### 11. Etc
 - **Git**
@@ -93,6 +94,7 @@
 - **Deep Learning**
     - [ ] [CS231n 2017](http://cs231n.stanford.edu/2017/)
         - :octocat: [Korean Subtitles for CS231n Spring 2017](https://github.com/insurgent92/CS231N_17_KOR_SUB?fbclid=IwAR3oZwTjNY8S0gFTOl0qeGbbH7O4Y3XPD2XsTI3c5YEFa4ougLvJWzrHdkU)
+- **Data Engineering**
 
 ### 8. Web
 - **Full Stack**
