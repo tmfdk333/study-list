@@ -1,6 +1,6 @@
 # Study List
 
-## 1. Book
+## Book
 
 ### 1) Language
 - **C**
@@ -99,7 +99,9 @@
 - **Interview**
     - [ ] 코딩 인터뷰 완전 분석
 
-## 2. Course
+---
+
+## Course
 
 ### 2) Framework
 - **Spring**
@@ -113,6 +115,7 @@
     - [ ] [초보 연구자를 위한 패턴인식 연구방법론](https://www.fastcampus.co.kr/data_camp_pattern/)
 - **Deep Learning**
     - [ ] [CS231n 2017](http://cs231n.stanford.edu/2017/)
+        - :octocat: [Korean Subtitles for CS231n Spring 2017](https://github.com/insurgent92/CS231N_17_KOR_SUB?fbclid=IwAR3oZwTjNY8S0gFTOl0qeGbbH7O4Y3XPD2XsTI3c5YEFa4ougLvJWzrHdkU)
     - [ ] CS224d
 
 ### 8) Web
@@ -123,8 +126,6 @@
 - **ALL**
     - [ ] 컴퓨터공학 올인원 패키지
 
-## 3. Link
+---
 
-### 7) ML/DL
-- **Deep Learning**
-    - [ ] [Korean Subtitles for CS231n Spring 2017](https://github.com/insurgent92/CS231N_17_KOR_SUB?fbclid=IwAR3oZwTjNY8S0gFTOl0qeGbbH7O4Y3XPD2XsTI3c5YEFa4ougLvJWzrHdkU)
+## Link
